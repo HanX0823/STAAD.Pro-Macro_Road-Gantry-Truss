@@ -1,5 +1,5 @@
 Linkedin Article Link:
-https://github.com/HanX0823/STAAD.Pro-Macro_Road-Gantry-Truss/blob/master/README.md
+https://www.linkedin.com/pulse/staadpro-macro-automatic-model-generation-lta-road-gantry-han-xiang-hiqhc/?trackingId=79Rf3m09TaOqn1jjNhi%2FUA%3D%3D 
 
 One of my projects required designing 16 types of Overhead Road Gantry Trusses with Road Signage following LTA SDRE standards.
 The sheer volume of manual work prompted me to figure out a way to automate this whole process.
